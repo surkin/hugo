@@ -1,0 +1,4 @@
+baseURL = "https://surkin.github.io/"
+languageCode = "en-us"
+title = "Zureich: the tech blog"
+theme = "ananke"
